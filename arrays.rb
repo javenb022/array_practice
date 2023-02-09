@@ -13,3 +13,8 @@ puts booleans.pop
 # Index positions is essentially the spot within the array
 # That the element is in. In order, you start counting the index
 # Positions with 0 and begin counting up until there are no more elements.
+
+puts favorite_colors.shuffle
+
+# The array method I found was .shuffle. It's pretty self-explanatory,
+# it shuffles the order of the elements in the array at random. Very fun.
