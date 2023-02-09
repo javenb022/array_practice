@@ -9,3 +9,7 @@ puts spent_at_walmart.pop
 puts booleans.pop 
 # The .pop on each array will take and remove the last 
 # element of each array
+
+# Index positions is essentially the spot within the array
+# That the element is in. In order, you start counting the index
+# Positions with 0 and begin counting up until there are no more elements.
