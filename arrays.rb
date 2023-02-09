@@ -7,3 +7,5 @@ puts favorite_colors.pop
 puts family_age.pop 
 puts spent_at_walmart.pop 
 puts booleans.pop 
+# The .pop on each array will take and remove the last 
+# element of each array
