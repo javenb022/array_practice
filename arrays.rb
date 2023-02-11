@@ -4,8 +4,8 @@ spent_at_walmart = [140.32, 181.35, 155.90, 147.33]
 booleans = [true, false, true, false, false]
 
 puts favorite_colors.pop 
-puts family_age.pop 
-puts spent_at_walmart.pop 
+puts family_age.reverse
+puts spent_at_walmart.sum
 puts booleans.pop 
 # The .pop on each array will take and remove the last 
 # element of each array
